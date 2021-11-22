@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+}
+h1{
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 300;
+}
+.line{
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+#app{
+    background-color: cadetblue;
+}
+#games{
+    background-color: coral;
+}
+#games a{
+    margin: 30px;
+}
+#Chatbot{
+    background-color: cornflowerblue;
+}
